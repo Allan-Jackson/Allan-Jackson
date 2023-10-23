@@ -1,7 +1,5 @@
 ### Yahallo! 🖖 AJ here! 
-#### I'm a developer (yeah... just that), but currently playing more as a Front-end guy 😄
 
-- 🌱 Studying Spring Framework
 - 😄 Pronouns: (He/his)
 - ⚡ Fun fact: I was addicted to Coffee ☕ , so I stopped drinking it 😐
 
